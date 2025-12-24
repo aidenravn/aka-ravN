@@ -29,11 +29,6 @@ My goal is to turn those values into accessible, open systems for everyone.
 
 🌐 Projects
 
-🌐 Projects: [ArcVault](https://github.com/holdonravn/arcvault-contribution-nft) ・ [Privora](https://github.com/holdonravn/privora-core) ・ [IQON](https://github.com/holdonravn/iqon)
-
+🌐 Projects: [ArcVault](https://github.com/holdonravn/arcvault-contribution-nft) 
 - 🛡️ Proof-of-contribution and transparent reward systems (ArcVault)
-- 🔒 Confidential yet verifiable AI outputs and on-chain proofs (Privora)
-- 🧠 On-chain intelligence and reward automation (IQON)
- Built on Zero1 Labs’ advanced encryption infrastructure.(DEAI)
-
 
