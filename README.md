@@ -27,7 +27,6 @@ My goal is to turn those values into accessible, open systems for everyone.
 
 ⸻
 
-🌐 Projects
 
 🌐 Projects: [ArcVault](https://github.com/holdonravn/arcvault-contribution-nft) 
 - 🛡️ Proof-of-contribution and transparent reward systems (ArcVault)
