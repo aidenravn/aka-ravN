@@ -1,3 +1,17 @@
+## ⚠️ Detailed Security & Legal Notice
+
+**Important:** This repository is provided **for educational and illustrative purposes only**.  
+
+1. **No Financial Advice:** The authors do not provide financial advice. Any code, mockups, or examples in this project are **not recommendations** for executing transactions.  
+2. **Demo Only:** All mockups and code examples are for demonstration and UX design purposes. Do **not** use them with real funds.  
+3. **User Responsibility:** Users must independently verify all blockchain addresses before sending any cryptocurrency.  
+4. **Forking / Modifications:** Forking, cloning, or modifying this repository does **not transfer any responsibility** from the user.  
+5. **No Liability:** The authors are **not responsible** for any losses, errors, or damages that occur due to the use of this repository.  
+6. **Educational Use:** Use this project only for learning, testing, or prototyping in a safe environment.
+
+> ⚠️ **Always exercise extreme caution when handling real funds. This repository is **not a financial tool**.**
+
+
 👤 Who is Tayfun?
 
 Hi, I’m Tayfun.
