@@ -17,15 +17,8 @@ Important: This repository and associated projects are provided strictly for edu
 👤 About Tayfun
 
 Hi, I’m Tayfun.
-
 I’m a builder working at the intersection of AI and Web3, developing open-source systems that make contributions, privacy, and intelligence verifiable on-chain.
-
-Through projects like ArcVault, Web3 Safe UX, TxGuard Snap, and Voluntary Execution Context (VEC), I aim to:
-	•	Make contributions provable and transparent
-	•	Ensure AI outputs are confidential yet verifiable
-	•	Enable individuals and communities to verify value and effort on-chain
-
-“My only goal: Transparent contribution. Real value. Quiet execution.”
+My work focuses on cryptographic trust, user sovereignty, and protocol-level UX — building primitives that let people coordinate, prove value, and stay secure without centralized intermediaries.
 
 ⸻
 
